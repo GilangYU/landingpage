@@ -1,0 +1,16 @@
+.detail img {
+    width: 90%;
+    height: 90%;
+}
+
+.detail h3 {
+    font-size: 30px;
+    position: relative;
+    margin: 30px;
+    text-align: center;
+    justify-content: center;
+}
+
+.detail p {
+    text-align: justify;
+}
